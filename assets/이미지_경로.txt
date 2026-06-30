@@ -1,0 +1,21 @@
+# 이미지 파일을 아래 경로에 넣으면 자동으로 표시됩니다.
+
+assets/team-main.png          — 팀 대표사진 1 (4:3, 히어로 배경 + ABOUT 슬라이더)
+assets/team-main-02.png       — 팀 대표사진 2 (4:3, ABOUT 슬라이더)
+assets/team-main-03.png       — 팀 대표사진 3 (4:3, ABOUT 슬라이더)
+assets/team-main-04.png       — 팀 대표사진 4 (4:3, ABOUT 슬라이더)
+assets/members/member1-1.png  — 멤버 01 사진 1 (대표)
+assets/members/member1-2.png  — 멤버 01 사진 2
+assets/members/member1-3.png  — 멤버 01 사진 3
+assets/members/member2-1.png  — 멤버 02 사진 1 (대표)
+assets/members/member2-2.png  — 멤버 02 사진 2
+assets/members/member2-3.png  — 멤버 02 사진 3
+assets/members/member3-1.png  — 민주 사진 1 (대표)
+assets/members/member3-2.png  — 민주 사진 2
+assets/members/member3-3.png  — 민주 사진 3
+assets/gallery/gallery-01.jpg — (사용 안 함, Video Gallery로 대체)
+videos.js                     — Video Gallery YouTube 영상 ID (id: '영상ID')
+assets/setlist/cover-01.png   — 셋리스트 01 해변의 여인 (COOL)
+assets/setlist/cover-02.png   — 셋리스트 02 I'm yours girl (S.E.S)
+assets/setlist/cover-03.png   — 셋리스트 03 Special Stage
+assets/setlist/cover-04.png   — 셋리스트 04 꿍따리 샤바라 (클론)

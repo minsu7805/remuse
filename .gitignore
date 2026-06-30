@@ -1,0 +1,8 @@
+# Local dev / working files
+다운로드/
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
