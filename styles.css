@@ -672,6 +672,18 @@ section {
   color: var(--gold);
 }
 
+.career-list {
+  margin: 12px 0 0;
+  padding-left: 18px;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.career-list li + li {
+  margin-top: 8px;
+}
+
 /* Video Gallery */
 .video-grid {
   display: grid;
@@ -810,11 +822,6 @@ section {
 @media (max-width: 560px) {
   section {
     padding: 70px 18px;
-  }
-
-  .features,
-  .setlist {
-    grid-template-columns: 1fr;
   }
 
   .hero {
