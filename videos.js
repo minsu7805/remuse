@@ -11,7 +11,7 @@
 
   grid.innerHTML = videos.map(function (video) {
     var embedHtml = video.id
-      ? '<iframe src="https://www.youtube.com/embed/' + encodeURIComponent(video.id) + '?rel=0&modestbranding=1&playsinline=1"' +
+      ? '<iframe src="https://www.youtube.com/embed/' + encodeURIComponent(video.id) + '?rel=0&modestbranding=1&playsinline=1&cc_load_policy=0"' +
         ' title="' + video.title + '"' +
         ' allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"' +
         ' allowfullscreen loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>'
