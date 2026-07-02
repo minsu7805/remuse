@@ -2,7 +2,7 @@
   // YouTube 영상 ID만 넣으면 페이지에서 바로 재생됩니다.
   // 예: https://www.youtube.com/watch?v=ABC123 → id: 'ABC123'
   var videos = [
-    { id: 'MBoEXAwc8e8', title: '해변의 여인 / 쿨(COOL)' },
+    { id: 'WJilbsooua0', title: '해변의 여인 / 쿨(COOL)' },
     { id: 'O2FAYElIkGk', title: 'Rude / 하트투하츠 커버댄스' }
   ];
 
