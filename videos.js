@@ -2,8 +2,7 @@
   // YouTube 영상 ID만 넣으면 페이지에서 바로 재생됩니다.
   // 예: https://www.youtube.com/watch?v=ABC123 → id: 'ABC123'
   var videos = [
-    { id: 'xzZA-FK_sRY', title: '해변의 여인 / 쿨(COOL)' },
-    { id: 'O2FAYElIkGk', title: 'Rude / 하트투하츠 커버댄스' }
+    { id: 'qEQCMo1-zBA' }
   ];
 
   var grid = document.querySelector('.video-grid');
@@ -32,7 +31,6 @@
           '<div class="video-embed">' +
             '<div class="video-placeholder">YouTube 영상 ID 추가<br><code>videos.js</code></div>' +
           '</div>' +
-          '<p class="video-title">' + video.title + '</p>' +
         '</article>'
       );
     }
@@ -42,7 +40,6 @@
         '<div class="video-embed">' +
           '<div id="yt-player-' + index + '" class="video-player"></div>' +
         '</div>' +
-        '<p class="video-title">' + video.title + '</p>' +
       '</article>'
     );
   }).join('');
