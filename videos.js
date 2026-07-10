@@ -2,7 +2,7 @@
   // YouTube 영상 ID만 넣으면 페이지에서 바로 재생됩니다.
   // 예: https://www.youtube.com/watch?v=ABC123 → id: 'ABC123'
   var videos = [
-    { id: 'qEQCMo1-zBA' }
+    { id: 'vKApN-_HDnw' }
   ];
 
   var grid = document.querySelector('.video-grid');
